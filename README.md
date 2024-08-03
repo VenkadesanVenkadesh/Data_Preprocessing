@@ -13,8 +13,12 @@
           Remove duplicates, correct errors, and handle inconsistent data entries.         
 
 **4. Handling missing values:**
+         - Find the missing value percentage
 
-          Decide on a strategy to address missing values, such as imputation or deletion.
+         - Decide on a strategy to address missing values, such as imputation or deletion.
+
+         - Fill the categorical numerical values for the columns
+
 
 **5. Data transformation:**
 
