@@ -4,7 +4,7 @@
 
           Load the data into a suitable data structure, such as a pandas DataFrame.
           
-**2. Data inspection:**
+**2. Exploratory Data Analysis:**
 
           Explore the data to understand its structure, quality, and potential issues.
 
